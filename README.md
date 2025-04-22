@@ -1,4 +1,4 @@
-## Bem-vindo ao perfil do Rogério Ricarte Duarte 😁
+## Bem-vindo ao perfil do Rogério Ricarte Duarte!😎
 
  <div>
    <a href="https://github.com/rogerioricarte">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Para me conhecer melhor siga-me nas redes a baixo!
  
 <div> 
   
